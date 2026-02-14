@@ -1,0 +1,11 @@
+ollama
+langchain
+langgraph
+streamlit
+chromadb
+python-dotenv
+langchain_ollama
+langchain_groq
+langchain-community
+tavily-python
+langchain_tavily

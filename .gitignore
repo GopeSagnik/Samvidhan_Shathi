@@ -1,0 +1,19 @@
+# Security (CRITICAL)
+.env
+.env.local
+
+# Virtual Environment
+ss.venv/
+venv/
+env/
+
+# Python Cache (Junk files)
+__pycache__/
+*.pyc
+
+# Local Database (You usually don't want to push the huge DB)
+chroma_db/
+chroma_db_data/
+
+# OS Junk
+.DS_Store
