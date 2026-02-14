@@ -30,6 +30,7 @@ graph TD
     Context --> Drafter[LLM Drafter]
     Drafter --> Output(Final Advice)
 
+```
 ## 🌟 Key Features
 
 | Feature | Description |
