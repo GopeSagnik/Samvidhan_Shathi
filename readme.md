@@ -16,7 +16,7 @@ In India, legal literacy is low, and professional legal advice is expensive. Cit
 
 ---
 
-## 🧠 The Architecture (Hybrid RAG)
+## 🧠 The Architecture
 
 This isn't just a chatbot. It's a **State-Aware Agent** built with **LangGraph**.
 
